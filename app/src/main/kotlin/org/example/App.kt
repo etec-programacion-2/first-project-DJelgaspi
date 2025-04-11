@@ -11,5 +11,7 @@ class App {
 }
 
 fun main() {
-    println(App().greeting)
+    var numero = 25 
+    val pi = 3.1416
+    println("edad de $numero")
 }
